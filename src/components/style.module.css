@@ -1,0 +1,15 @@
+
+.filterBtn {
+
+    @media (max-width: 600px) {
+      text-align: center;
+    }
+  }
+  .productBox{
+
+    
+    @media (max-width: 1000px) {
+         margin-top: 1rem ;
+      
+      }
+  }
